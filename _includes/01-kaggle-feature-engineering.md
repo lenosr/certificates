@@ -5,3 +5,5 @@ Data Scientist Certificate ID: EPL39LAE
 Data Analyst Certificate ID: MRMWAG7Z
 
 ![WrkrDS](https://github.com/lenosr/certificates/raw/master/_includes/Workera.png)
+
+![MchL](https://github.com/lenosr/certificates/raw/master/_includes/MachineLearning.png)
